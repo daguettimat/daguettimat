@@ -1,6 +1,8 @@
 <div align="center">
   <img align="center" height="150" src="https://media.tenor.com/9ItR8nSuxE0AAAAC/thumbs-up-computer.gif">
 </div>
+
+<td align="center" width="150"><a href="https://github.com/mkettermann"><img src="https://avatars.githubusercontent.com/u/daguettimat?s=70&v=4"><br><sub>Matheus Daguetti</sub></a></td>
   
 ##
 
